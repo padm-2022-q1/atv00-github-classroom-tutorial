@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Hello World</string>
     <string name="hello_ufabc">Hello, UFABC!</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="greet">Greet</string>
+    <string name="hello_message">"Hello, %s! Welcome to UFABC!"</string>
 </resources>

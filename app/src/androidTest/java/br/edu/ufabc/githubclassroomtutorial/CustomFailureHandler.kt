@@ -1,4 +1,4 @@
-package br.edu.ufabc.helloworld
+package br.edu.ufabc.githubclassroomtutorial
 
 import android.content.Context
 import android.view.View

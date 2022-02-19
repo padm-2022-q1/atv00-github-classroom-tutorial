@@ -1,4 +1,4 @@
-package br.edu.ufabc.helloworld
+package br.edu.ufabc.githubclassroomtutorial
 
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.assertion.ViewAssertions.matches

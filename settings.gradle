@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Hello World"
+rootProject.name = "atv00-github-classroom-tutorial"
 include ':app'
