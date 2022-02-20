@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onStart()
 
         findViewById<Button>(R.id.btn_greet).setOnClickListener {
-            val inputText = findViewById<EditText>(R.id.editxt_name)
+            val inputText = findViewById<EditText>(R.id.edittext_name)
             val outputText = findViewById<TextView>(R.id.txt_message)
 
             outputText.text = String.format(getString(R.string.hello_message), inputText.text)
